@@ -1,5 +1,5 @@
 {
-    "name": "opgginc/laravel-mcp-server",
+    "name": "imlolman/laravel-mcp-server",
     "description": "This is my package laravel-mcp-server",
     "keywords": [
         "opgginc",
@@ -9,7 +9,7 @@
     "homepage": "https://github.com/opgginc/laravel-mcp-server",
     "license": "MIT",
     "require": {
-        "php": "^8.2",
+        "php": "^8.1",
         "spatie/laravel-package-tools": "^1.16",
         "illuminate/contracts": "^10.0||^11.0||^12.0"
     },
